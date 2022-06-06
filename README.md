@@ -1,6 +1,5 @@
 # Fun With GPT 3
 
-Shopify - Front end developer Intern Challenge
 
 ## Install the dependencies
 ```bash
